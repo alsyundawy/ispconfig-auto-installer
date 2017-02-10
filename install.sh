@@ -49,7 +49,6 @@ source $PWD/distros/$DISTRO/askquestions.sh
 
 source $PWD/distros/$DISTRO/install_basics.sh
 source $PWD/distros/$DISTRO/install_postfix.sh
-source $PWD/distros/$DISTRO/install_mysql.sh
 source $PWD/distros/$DISTRO/install_mta.sh
 source $PWD/distros/$DISTRO/install_antivirus.sh
 source $PWD/distros/$DISTRO/install_webserver.sh
